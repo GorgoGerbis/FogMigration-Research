@@ -1,7 +1,0 @@
-NodeId;Latitude;Longitude;Status;Resources[CPU Memory Physical Buffer Size];ProcessingDelay;NodeCost
-1;164;601;I;[73, 17, 40];909;4
-2;463;184;O;[62, 11, 20];869;2
-3;523;425;I;[25, 77, 50];169;5
-4;159;184;R;[8, 93, 20];540;5
-5;271;192;A;[87, 18, 40];314;1
-6;232;552;O;[1, 28, 50];906;2
